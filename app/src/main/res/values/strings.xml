@@ -19,4 +19,11 @@ limitations under the License. -->
 
     <!-- Sensor list is dynamically built;  this is the placeholder for view -->
     <string name="placeholder_text">(placeholder)</string>
+
+
+    <!-- String for the orientation values. The %1$.2f part is a placeholder
+     that will be filled in at runtime:
+     %1 is the value to replace
+     $.2f says the value is a float, with two decimal places.  -->
+    <string name="value_format">%1$.2f</string>
 </resources>
