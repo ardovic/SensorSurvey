@@ -4,6 +4,14 @@
         "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }

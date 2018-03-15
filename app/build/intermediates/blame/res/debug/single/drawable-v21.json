@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
         "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/abc_edit_text_material.xml"
     },
@@ -14,5 +22,13 @@
     {
         "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/drawable-v21/abc_btn_colored_material.xml"
     }
 ]
