@@ -1,13 +1,5 @@
 [
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_tint_edittext.xml"
     },
@@ -16,24 +8,8 @@
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
@@ -56,27 +32,11 @@
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_default.xml"
-    },
-    {
         "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/Users/serjardovic/Documents/GDG2018/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/Users/serjardovic/.android/build-cache/b16b9ad6399aed8c05aa2b8b1de74da3492a462a/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/aleksei/google schoolarship/advance/lesson 2/SensorSurvey/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/aleksei/.android/build-cache/754ec145aa992bae545948755a2764ffdf5bccbd/output/res/color-v23/abc_tint_switch_track.xml"
     }
 ]

@@ -27,9 +27,9 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     private Sensor mSensorProximity;
     private Sensor mSensorLight;
 
-    //@BindView(R.id.sensor_list) TextView list;
-    //@BindView(R.id.sensor_proximity) TextView proximity;
-    //@BindView(R.id.sensor_light) TextView light;
+    @BindView(R.id.sensor_list) TextView list;
+    @BindView(R.id.sensor_proximity) TextView proximity;
+    @BindView(R.id.sensor_light) TextView light;
 
 
     @Override
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //ButterKnife.bind(this);
+        ButterKnife.bind(this);
 
         mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
 
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             sensorText.append(System.getProperty("line.separator"));
         }
 
-        ((TextView)findViewById(R.id.sensor_list)).setText(sensorText.toString());
+        list.setText(sensorText.toString());
 
     }
 
@@ -85,12 +85,12 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             case Sensor.TYPE_PROXIMITY:
                 float currentProximityValue = event.values[0];
                 String textProximity = String.format(getString(R.string.value_format), currentProximityValue);
-                ((TextView)findViewById(R.id.sensor_proximity)).setText(textProximity);
+                proximity.setText(textProximity);
                 break;
             case Sensor.TYPE_LIGHT:
                 float currentLightValue = event.values[0];
                 String textLight = String.format(getString(R.string.value_format), currentLightValue);
-                ((TextView)findViewById(R.id.sensor_light)).setText(textLight);
+                light.setText(textLight);
                 break;
         }
 
